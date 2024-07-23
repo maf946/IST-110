@@ -6,7 +6,9 @@
 4. From the File menu, select New, then Data Source, then SQLite.
 5. In the window that appears, click "OK."
 6. In the upper-left corner, in the Database Explorer, click the icon for "Query Consoles" (as shown in the image below), then on "Default Query Console."
+
 ![How to access the Query Console](AccessQueryConsoles.png)
+
 7. In the text box that appears, copy and paste each of the code boxes below, then click the Execute button (the green arrow). We'll discuss what each of these does in class.
 
 ### Create the courses table
