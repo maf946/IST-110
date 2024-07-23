@@ -1,11 +1,11 @@
 # Quick intro to DataGrip/SQL
 
-1. [Download a copy of DataGrip](https://www.jetbrains.com/datagrip/download/) for your computer, and install it.
-2. From DataGrip's File menu, select New, then Project.
-3. Give the project a name, such as "ClassDatabase." 
-4. From the File menu, select New, then Data Source, then SQLite.
-5. In the window that appears, click "OK."
-6. In the upper-left corner, in the Database Explorer, click the icon for "Query Consoles" (as shown in the image below), then on "Default Query Console."
+1. [Download a copy of DataGrip](https://www.jetbrains.com/datagrip/download/) for your computer, and install it. When prompted, click "Start Free 30-Day Trial." As a student, you do get free access beyond 30 days, but you have to [fill out a form](https://www.jetbrains.com/shop/eform/students) and I wouldn't worry about it for now.
+3. From DataGrip's File menu, select New, then Project.
+4. Give the project a name, such as "ClassDatabase." 
+5. From the File menu, select New, then Data Source, then SQLite.
+6. In the window that appears, click "OK."
+7. In the upper-left corner, in the Database Explorer, click the icon for "Query Consoles" (as shown in the image below), then on "Default Query Console."
 
 ![How to access the Query Console](AccessQueryConsoles.png)
 
