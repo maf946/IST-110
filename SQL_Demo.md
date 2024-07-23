@@ -5,7 +5,8 @@
 4. Give the project a name, such as "ClassDatabase." 
 5. From the File menu, select New, then Data Source, then SQLite.
 6. In the window that appears, click "OK."
-7. In the upper-left corner, in the Database Explorer, click the icon for "Query Consoles" (as shown in the image below), then on "Default Query Console."
+7. If prompted, make sure to download the Driver Files for SQLite; Data Grip will handle downloading and installing them for you.
+8. In the upper-left corner, in the Database Explorer, click the icon for "Query Consoles" (as shown in the image below), then on "Default Query Console."
 
 ![How to access the Query Console](AccessQueryConsoles.png)
 
