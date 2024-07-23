@@ -1,4 +1,4 @@
-#Quick intro to DataGrip/SQL
+# Quick intro to DataGrip/SQL
 
 1. [Download a copy of DataGrip](https://www.jetbrains.com/datagrip/download/) for your computer, and install it.
 2. From DataGrip's File menu, select New, then Project.
